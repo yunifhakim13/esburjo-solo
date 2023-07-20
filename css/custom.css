@@ -1,0 +1,41 @@
+.btn-primary {
+  background: #ff9900;
+  border: 0;
+  padding: 15px 41px 15px 41px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background: #d48105;
+  border: 0;
+}
+.btn-secondary {
+  background: none;
+  border: 1px solid #bcd0e5;
+  padding: 15px 41px 15px 41px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #173a56;
+}
+
+.btn-secondary:hover {
+  background: none;
+  border: 1px solid #96a8bb;
+  color: #173a56;
+}
+
+.heroyun h1 {
+  font-family: "Poppins" "Light";
+  font-weight: 700;
+  color: #2f281e;
+}
+.heroyun p {
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.navbar-nav .nav-link {
+  color: #2f281e;
+}
